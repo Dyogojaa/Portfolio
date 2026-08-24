@@ -45,12 +45,12 @@ const projects = [
     url: 'https://github.com/Dyogojaa/GameTracker',
   },
   {
-    name: 'RecisaoControl',
+    name: 'CorretorPro',
     type: 'Projeto próprio',
-    status: 'Público',
-    text: 'Sistema para acompanhamento e projeção de valores de rescisão, desenvolvido como produto próprio com potencial comercial.',
+    status: 'Em Desenvolvimento',
+    text: 'Sistema para acompanhamento de Pequenas Corretores de Seguros, com foco em gestão de clientes, propostas e apólices.',
     tags: ['.NET', 'React'],
-    url: 'https://github.com/Dyogojaa/RecisaoControl',
+    url: '*',
   },
   {
     name: 'IRControl',
